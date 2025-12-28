@@ -5,8 +5,9 @@
 [![License](https://img.shields.io/github/license/blueburncz/GMD3D11)](LICENSE)
 [![Discord](https://img.shields.io/discord/298884075585011713?label=Discord)](https://discord.gg/ep2BGPm)
 
-> [!WARNING]
-> GMD3D11 is in early development. Its API is unstable and subject to change. Use at your own risk!
+## Status: Community Project 💙
+
+This is a community-developed project, released under **CC0 1.0 Universal (Public Domain)**. It is **no longer actively maintained** by the original author. Feel free to fork, modify, or experiment.
 
 ## Features
 
@@ -56,3 +57,4 @@ Simply run `./build.ps1` from the root directory to build the DLL, copy it into 
 
 * <https://github.com/ParinovYT/cVmtHook-x64> - x64 VMT hook
 * <https://polyhaven.com/a/rubber_duck_toy> - model used in instanced rendering example
+
